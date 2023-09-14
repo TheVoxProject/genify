@@ -108,6 +108,6 @@ This command will render `base.html` with the provided navbar and footer templat
 
 Contributions to Genify are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request on the Genify GitHub repository.
 
-License
+## License
 
 Genify is open-source software licensed under the MIT License. See the LICENSE file for details.
